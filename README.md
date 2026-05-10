@@ -39,7 +39,7 @@ This project analyzes historical credit card transaction data to identify suspic
 
 ## Dashboard Preview
 
-<!-- Error while uploading Screenshot 2025-11-14 142934.png -->
+<img src="dashboard.png" alt="Dashboard photo" >
 
 ## Future Improvements
 
